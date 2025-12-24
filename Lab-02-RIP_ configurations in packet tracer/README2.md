@@ -154,14 +154,11 @@ Used for security and legal notification
 
 Prevents unauthorized access
 
-##12 Topology & Download
-Here is the network topology for this lab:
-![Topology](Topology2.png)
+##12 Screenshot
+![Topology Screenshot](Topology2.png)
 
-<!-- Download button below the image -->
-<a href="https://raw.githubusercontent.com/abakar61/network_security_labs/main/Lab-02-RIP_%20configurations_in_packet_tracer/Lab2_RIP_Configuation.pkt" download style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
-Download Lab 2 Packet Tracer File
-</a>
+## Download the Packet Tracer file
+[Click here to download topology.pkt](Lab2_RIP_Configuation.pkt)
 
 
 

@@ -159,7 +159,7 @@ Here is the network topology for this lab:
 ![Topology](Topology2.png)
 
 <!-- Download button below the image -->
-<a href="https://github.com/abakar61/network_security_labs/raw/refs/heads/main/Lab-02-RIP_%20configurations%20in%20packet%20tracer/Lab2_RIP_Configuation.pkt" download style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+<a href="https://raw.githubusercontent.com/abakar61/network_security_labs/raw/refs/heads/main/Lab-02-RIP_%20configurations%20in%20packet%20tracer/Lab2_RIP_Configuation.pkt" download style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
 Download Lab1 Packet Tracer File
 </a>
 
